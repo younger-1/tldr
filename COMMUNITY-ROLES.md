@@ -21,7 +21,7 @@ the metrics used are objective, easy to check, and explicitly described below. (
 exceptions can always be considered through open community discussion.)
 
 > [!IMPORTANT]
-> It is required to have [two factor authentication](https://github.com/settings/security) (2FA) enabled for your GitHub account to be added as a outside collaborator or a member to the tldr-pages organization.
+> It is required to have [two-factor authentication](https://github.com/settings/security) (2FA) enabled for your GitHub account to be added as an outside collaborator or a member of the tldr-pages organization.
 
 ## When to change roles
 
@@ -109,7 +109,7 @@ using one of the template messages below as a base.
    Either way, thanks for all your work so far!
 
    > [!NOTE]
-   > It is required to have [two factor authentication](https://github.com/settings/security) (2FA) enabled for your GitHub account to be added as a collaborator the tldr-pages/tldr repository.
+   > It is required to have [two-factor authentication](https://github.com/settings/security) (2FA) enabled for your GitHub account to be added as a collaborator to the tldr-pages/tldr repository.
    ```
 
 2. Once they acknowledge the message and if they accept the invitation,
@@ -220,7 +220,9 @@ can then perform the actual role changes.
 
 ## CODEOWNERS
 
-The [`.github/CODEOWNERS` file](https://github.com/tldr-pages/tldr/blob/main/.github/CODEOWNERS) allows contributors with write access to the [tldr-pages/tldr repository](https://github.com/tldr-pages/tldr) to get automatic review request notifications for given files and directories.
+The [`.github/CODEOWNERS` file](https://github.com/tldr-pages/tldr/blob/main/.github/CODEOWNERS) allows contributors with write access to the [tldr-pages/tldr repository](https://github.com/tldr-pages/tldr)
+to get automatic review request notifications for given files and directories.
+
 If they wish to, contributors can open a pull request to add themselves to this file as desired.
 
 Example uses include (but are not limited to):
